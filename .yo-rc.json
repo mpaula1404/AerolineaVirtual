@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "authenticationType": "jwt",
+    "baseName": "AerolineaVirtual",
+    "buildTool": "maven",
+    "cacheProvider": "ehcache",
+    "clientFramework": "react",
+    "clientTestFrameworks": [],
+    "clientTheme": "none",
+    "creationTimestamp": 1744318415224,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "enableHibernateCache": true,
+    "enableTranslation": true,
+    "entities": [],
+    "feignClient": null,
+    "jhipsterVersion": "8.10.0",
+    "jwtSecretKey": "ZGZmODMxMzFiYzlmNzRiYjI3YmY3ZmRlOTgwOTc3ZDYzNWE0NmZlZmZjOGY3YTI1NmNlZGY5YmRjYjc0M2VhNzAyMWNmYjA0NzkzNDk5MGE0YTQ0MWUxNWZlNDNhZmRlODhlY2EyZmNlYTY0ODM0OTNlNTlkOWU4MWMwMDU4Yzk=",
+    "languages": ["es"],
+    "microfrontend": null,
+    "microfrontends": [],
+    "nativeLanguage": "es",
+    "packageName": "com.udea.fsi",
+    "prodDatabaseType": "mysql",
+    "reactive": false,
+    "serverPort": null,
+    "serviceDiscoveryType": null,
+    "syncUserWithIdp": null,
+    "testFrameworks": [],
+    "withAdminUi": true
+  }
+}
